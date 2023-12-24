@@ -1,0 +1,17 @@
+.card {
+	width: 100%;
+	margin: 24px 0;
+}
+
+.card-img {
+	width: 100%;
+	height: 200px;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.plant-history {
+	text-align: left;
+}
