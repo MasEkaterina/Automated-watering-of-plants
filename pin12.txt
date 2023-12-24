@@ -1,0 +1,19 @@
+
+21.12.2023 20:59:33: Relay set ON
+21.12.2023 20:59:43: Relay set OFF
+21.12.2023 21:15:46: Relay set ON
+21.12.2023 21:15:56: Relay set OFF
+23.12.2023 13:16:57: Relay set ON
+23.12.2023 13:17:07: Relay set OFF
+23.12.2023 13:19:01: Relay set ON
+23.12.2023 13:19:11: Relay set OFF
+23.12.2023 13:20:30: Relay set ON
+23.12.2023 13:20:40: Relay set OFF
+23.12.2023 13:23:10: Relay set ON
+23.12.2023 13:23:20: Relay set OFF
+23.12.2023 13:23:20: Relay set ON
+23.12.2023 13:23:30: Relay set OFF
+23.12.2023 13:25:24: Relay set ON
+23.12.2023 13:25:34: Relay set OFF
+23.12.2023 22:26:53: Relay set ON
+23.12.2023 22:27:03: Relay set OFF
